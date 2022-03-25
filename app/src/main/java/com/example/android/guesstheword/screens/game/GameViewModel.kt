@@ -21,7 +21,6 @@ class GameViewModel : ViewModel() {
         resetList()
         nextWord()
 
-        word.value = ""
         score.value = 0
     }
 
